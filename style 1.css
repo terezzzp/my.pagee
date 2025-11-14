@@ -1,0 +1,56 @@
+title{
+    font-family: "arial";
+}
+
+body {
+    background-color: #8970a0;
+}
+
+h1{
+    font-family:"arial";
+    text-align: center;
+    color:rgb(46, 17, 58); 
+ 
+}
+
+h2{
+    font-family:"arial";
+    text-align: center;
+    color:#ece5f0;
+}
+
+.parent {
+  text-align: center;
+}
+
+.parent ul {
+  display: inline-block;
+  text-align: left; 
+}
+
+
+p{
+    font-family:"arial";
+    color:#ece5f0;
+    text-align: center;
+}
+
+img{
+    border: 10px solid rgb(38, 9, 43); 
+    
+    border-radius: 15px;
+    border: image 10px solid #8970a0;
+ }
+
+ div{
+    text-align: center;
+ }
+
+ li{
+    font-family: "arial";
+ }
+
+ li:hover{
+    background-color: #ece5f0;
+    font-size: 17px;
+ }
